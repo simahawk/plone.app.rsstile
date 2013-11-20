@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="plone.app.rsstile"
+      interface="plone.app.rsstile.interfaces.IThemeSpecific"
+      />
+</layers>
